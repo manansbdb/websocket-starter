@@ -1,0 +1,14 @@
+{
+  "name": "websocket-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal WebSocket server skeleton / Skeleton mínimo de servidor WebSocket",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "license": "MIT"
+}
